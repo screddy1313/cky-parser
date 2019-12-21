@@ -7,7 +7,7 @@
 ### Grammar :
 
 The grammar stems from the Airline Travel Information System (ATIS), a project working on spoken dialog systems for air travel.
-The ATIS CFG is available in the NLTK data package, together with 98 test sentences.
+The *ATIS CFG* is available in the NLTK data package, together with 98 test sentences.
 
 
 #### Language : Python
@@ -16,7 +16,8 @@ The ATIS CFG is available in the NLTK data package, together with 98 test senten
 
 ##### Problem Statement :
 
-  +Given a test sentence find whether the ATIS grammar covers the senetence or not ( Recognizer )
-  + If the test sentence is derived from the grammar, print all the different parse trees of the sentence. We will be using tree module in NLTK to draw the trees.
+  + Given a test sentence find whether the ATIS grammar covers the senetence or not ( Recognizer )
+  + If the test sentence is derived from the grammar, print all the different parse trees of the sentence.
+  + We will be using tree module in NLTK to draw the trees.
 
 
